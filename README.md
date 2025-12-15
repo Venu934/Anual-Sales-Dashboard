@@ -88,3 +88,21 @@ https://raw.githubusercontent.com/Venu934/Anual-Sales-Dashboard/main/dashboard_s
 ---
 
 ## 📂 Repository Structure
+
+---
+
+## 🎯 Learning Outcomes
+- Designed a **business-driven Excel dashboard**
+- Translated business questions into visual analytics
+- Gained hands-on experience with **Excel pivot tables and slicers**
+- Improved data storytelling and insight communication skills
+
+---
+
+## 📬 Contact
+**Author:** Kondaveeti Venugopal  
+**Role:** Aspiring Data Analyst  
+**Skills:** Excel | SQL | Data Visualization | Business Analytics  
+
+⭐ *If you found this project useful, feel free to star the repository!*
+
