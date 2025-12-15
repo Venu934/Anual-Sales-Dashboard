@@ -70,7 +70,7 @@ The dashboard answers the following key business questions:
 ---
 
 ##  Dashboard Preview
-![Vrinda Store Annual Report Dashboard](https://github.com/Venu934/Anual-Sales-Dashboard/blob/main/Sample_Dataset.xlsx)
+![Vrinda Store Annual Report Dashboard](https://github.com/Venu934/Anual-Sales-Dashboard/blob/main/Screenshot%202025-12-15%20114318.png)
 https://raw.githubusercontent.com/Venu934/Anual-Sales-Dashboard/main/dashboard_screenshot.png
 
 
